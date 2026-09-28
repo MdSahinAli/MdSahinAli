@@ -1,24 +1,26 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%20Sahin%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20LLMs%20%7C%20Multi-Agent%20Systems&descAlignY=55&descSize=18" width="100%" alt="Md Sahin Ali"/>
+
 # 👋 Hi, I'm **Md Sahin Ali**
 
-### 🤖 AI Engineer • ML & GenAI Developer • LLMs • Agentic AI
+### 🤖 AI Engineer • GenAI Developer • LLMs • Agentic AI
 
 <p>
   <a href="https://github.com/MdSahinAli">
-    <img src="https://komarev.com/ghpvc/?username=mdsahinali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=mdsahinali&label=Profile%20Views&color=2C5364&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://github.com/MdSahinAli?tab=followers">
-    <img src="https://img.shields.io/github/followers/MdSahinAli?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/MdSahinAli?style=flat-square&label=Followers&color=2C5364" alt="GitHub Followers"/>
   </a>
 </p>
 
 <p>
   <a href="https://linkedin.com/in/mdsahin-ali2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/MdSahinAli">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -28,201 +30,258 @@
 
 ## 🧠 About Me
 
-I'm an **AI/ML developer focused on Generative AI, LLM applications, and multi-agent systems**.
+> **I build intelligent systems that turn AI ideas into practical applications.**
 
-I enjoy building intelligent systems that combine **machine learning, LLMs, APIs, and autonomous agents** to solve practical problems.
+I'm an **AI/ML developer focused on Generative AI, Large Language Models, and Agentic AI**.
 
-- 🤖 Building with **Generative AI, LLMs & Agentic AI**
-- 🧠 Exploring **RAG, AI Agents & Multi-Agent Architectures**
-- 🔗 Working with **LangChain, LangGraph & OpenAI APIs**
-- ⚡ Developing APIs and AI backends with **FastAPI**
-- 📊 Working with **Machine Learning & Data Science**
-- 🐍 Python is my primary development language
-- 🚀 Interested in turning AI concepts into **real-world applications**
+My work spans from traditional machine learning and data analysis to **LLM applications, RAG pipelines, AI agents, and multi-agent systems**.
 
----
-
-## 🚀 What I Build
+I'm particularly interested in building systems where multiple AI components can reason, communicate, collaborate, and take actions to solve real-world problems.
 
 ```text
-AI Applications
-      │
-      ├── 🤖 Generative AI & LLMs
-      │      ├── RAG Systems
-      │      ├── AI Agents
-      │      └── Multi-Agent Systems
-      │
-      ├── 🧠 Machine Learning
-      │      ├── Classification
-      │      ├── Prediction
-      │      └── Data Analysis
-      │
-      └── ⚙️ AI Backend Systems
-             ├── FastAPI
-             ├── REST APIs
-             └── Database Integration
+AI / ML
+  ├── Machine Learning
+  ├── Deep Learning
+  └── Data Science
+
+Generative AI
+  ├── LLM Applications
+  ├── RAG
+  ├── Prompt Engineering
+  └── AI Agents
+
+Agentic AI
+  ├── LangChain
+  ├── LangGraph
+  ├── CrewAI
+  ├── Google ADK
+  └── A2A
+
+Backend
+  ├── FastAPI
+  ├── REST APIs
+  └── Databases
 ```
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 What I'm Working With
 
-### 🤖 Converge AI — Multi-Agent Scheduling System
+<div align="center">
 
-An autonomous multi-agent scheduling system exploring **Agent-to-Agent (A2A) communication** between heterogeneous AI agents.
+| 🤖 AI & GenAI | 🧠 Agentic AI | ⚙️ Backend | 📊 Data |
+|:---:|:---:|:---:|:---:|
+| LLMs | LangChain | FastAPI | Pandas |
+| RAG | LangGraph | REST APIs | NumPy |
+| Machine Learning | CrewAI | Python | Matplotlib |
+| Deep Learning | Google ADK | SQL | Seaborn |
+| NLP | A2A | MySQL | Tableau |
 
-**Highlights**
+</div>
 
-- 🔹 Multi-agent scheduling and coordination
-- 🔹 Agent interoperability using A2A
-- 🔹 Distributed calendar/resource coordination
-- 🔹 Conflict resolution between agents
-- 🔹 Agents built using different AI frameworks
+---
 
-**Tech Stack**
+# 🔥 Featured Projects
+
+## 🤖 Converge AI
+
+### *Autonomous Multi-Agent Scheduling System*
+
+A research-oriented multi-agent system designed around **Agent-to-Agent (A2A) communication**, enabling heterogeneous AI agents to collaborate on scheduling and resource coordination.
+
+**What it explores**
+
+- 🤝 Communication between autonomous AI agents
+- 🔄 Multi-agent coordination
+- 📅 Distributed calendar and scheduling
+- ⚡ Conflict resolution
+- 🔌 Agent interoperability
+- 🧩 Different agent frameworks working together
+
+**Built with**
 
 `Python` `Google ADK` `LangChain` `LangGraph` `CrewAI` `A2A`
 
 ---
 
-### 🛡️ PIPPF — Phishing Prevention Framework
+## 🛡️ PIPPF
 
-A multi-stage phishing detection framework combining **machine learning, behavioral analysis, and DOM similarity analysis**.
+### *Pre-Indexing Phishing Prevention Framework*
 
-**Highlights**
+A multi-stage phishing detection framework combining **machine learning, JavaScript behavioral analysis, and DOM similarity analysis**.
 
-- 🔹 URL-based machine learning detection
-- 🔹 JavaScript behavioral analysis
-- 🔹 DOM rendering and comparison
-- 🔹 Normalized Compression Distance (NCD)
-- 🔹 Multi-stage phishing detection pipeline
+**Pipeline**
 
-**Tech Stack**
+```text
+URL
+ ↓
+Machine Learning Analysis
+ ↓
+JavaScript Behavioral Analysis
+ ↓
+DOM Rendering
+ ↓
+Similarity Analysis
+ ↓
+Phishing Detection
+```
 
-`Python` `Scikit-learn` `Machine Learning` `JavaScript`
+**Built with**
+
+`Python` `Scikit-learn` `Machine Learning` `JavaScript` `NCD`
 
 ---
 
-### 🎬 TMDB Movies — Exploratory Data Analysis
+## 🎬 TMDB Movies — EDA
 
-An exploratory analysis of the **TMDB Movies dataset** to discover movie trends, relationships, and patterns.
+### *Exploratory Data Analysis & Movie Insights*
 
-**Highlights**
+An end-to-end exploratory analysis of the TMDB Movies dataset to identify patterns, trends, relationships, and insights from movie data.
 
-- 📊 Data cleaning and preprocessing
-- 🔍 Exploratory data analysis
-- 📈 Feature and trend analysis
-- 📉 Data visualization
-- 🎯 Insight generation from movie data
+**Focus**
 
-**Tech Stack**
+- 📊 Data cleaning
+- 🔍 Exploratory analysis
+- 📈 Trend discovery
+- 📉 Visualization
+- 🎯 Feature analysis
+
+**Built with**
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Languages
 
 <p align="left">
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
-<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" alt="Languages"/>
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p align="left">
-<a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="45" height="45" alt="Scikit-learn"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/></a>
-<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/></a>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI ML"/>
 </p>
 
-**Machine Learning** • **Deep Learning** • **NLP** • **Generative AI** • **LLMs** • **RAG** • **AI Agents**
+`Machine Learning` • `Deep Learning` • `NLP` • `Generative AI` • `LLMs`
 
-### 🧠 GenAI & Agentic AI
+### 🧠 Generative AI & Agentic AI
 
-<p align="center">
+<p align="left">
 
-`LangChain` &nbsp; `LangGraph` &nbsp; `OpenAI API` &nbsp; `Google ADK` &nbsp; `CrewAI` &nbsp; `A2A`
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/A2A-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
+
+### ⚡ Backend & APIs
+
+`FastAPI` • `REST APIs` • `Next.js` • `SQLite` • `MySQL`
 
 ### 📊 Data & Analytics
 
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Tableau` • `MS Excel`
 
-### ⚙️ Backend & Development
-
-`FastAPI` • `REST APIs` • `Next.js` • `SQLite` • `MySQL`
-
 ### 🧰 Tools
 
 <p align="left">
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/></a>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" alt="Tools"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsahinali&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahinali&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdsahinali&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahinali&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mdsahinali&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🧩 Currently Exploring
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdsahinali&hide_border=true&theme=transparent" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📌 Currently Exploring
+<div align="center">
 
 ```text
-Generative AI
-      ↓
 Large Language Models
-      ↓
-RAG & Knowledge Systems
-      ↓
+        ↓
+Retrieval-Augmented Generation
+        ↓
 AI Agents
-      ↓
+        ↓
+Agentic Workflows
+        ↓
 Multi-Agent Systems
-      ↓
-Production AI Applications
+        ↓
+Autonomous AI Applications
 ```
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 📚 My Learning Philosophy
 
-I'm always interested in **AI engineering, GenAI, machine learning, agentic systems, and interesting technical projects.**
+```python
+while True:
+    learn()
+    build()
+    experiment()
+    fail()
+    improve()
+    ship()
+```
+
+> **Don't just learn AI. Build with it.**
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/mdsahin-ali2004">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/MdSahinAli">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<a href="https://linkedin.com/in/mdsahin-ali2004">
+<img src="https://img.shields.io/badge/LinkedIn-Md%20Sahin%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MdSahinAli">
+<img src="https://img.shields.io/badge/GitHub-MdSahinAli-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 🚀 Building • Learning • Experimenting • Shipping AI
+### 🚀 Building AI. Exploring Intelligence. Shipping Ideas.
 
-⭐ *If you find something useful here, consider starring the repository.*
+⭐ **If you find something useful here, consider giving the repository a star.**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer"/>
+
+<!--
+Profile README for MdSahinAli
+Keep this file updated as projects and technologies evolve.
+-->
